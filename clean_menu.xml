@@ -1,0 +1,6 @@
+<openerp><data>
+	<template id="menu_secondary" name="oerp_no_phoning_home menu" inherit_id="web.menu_secondary">
+		<xpath expr="//div[@class='oe_footer']" position="replace"/>
+	</template>  
+</data></openerp>
+

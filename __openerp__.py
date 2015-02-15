@@ -35,6 +35,7 @@
     'data': [
         "base_view.xml",
         "mail_data.xml",
+        "clean_menu.xml",
     ],
     'demo_xml': [],
     'test': [
